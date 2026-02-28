@@ -100,9 +100,7 @@ endmodule
 ![Screenshot 2025-05-21 155538](https://github.com/user-attachments/assets/187ebe28-40e2-44b2-9b78-d08bdc67d62c)
 
 ### Simulation Waveforms
-<img width="1919" height="1199" alt="Screenshot 2026-02-25 161633" src="https://github.com/user-attachments/assets/97fd0289-44c7-4ec8-8b32-2e229682d5d2" />
-
-
+<img width="1919" height="1199" alt="Screenshot 2026-02-25 161633" src="https://github.com/user-attachments/assets/d7455873-0952-43e6-81d2-1fbedbf2d13c" />
 
 ## Results
 Successfully designed the 1-bit Full Adder and 4-bit Adder using Verilog HDL.
